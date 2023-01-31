@@ -6,7 +6,7 @@ Each folder in this repository contains solved katas of the corresponding level.
 
 <hr>
 
-#### Each script contains information about the kata name and a link to it.**
+#### Each script contains information about the kata name and a link to it.
 For example:
 
 ```
