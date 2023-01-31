@@ -23,10 +23,10 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 ## All katas
 **⇃ 8 kyu**
 
-1. https://www.codewars.com/kata/5545f109004975ea66000086
-2. https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
-3. https://www.codewars.com/kata/5302d846be2a9189af0001e4
-4. https://www.codewars.com/kata/57eae65a4321032ce000002d
-5. https://www.codewars.com/kata/568dc014440f03b13900001d
+1. [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)
+2. [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+3. [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+4. [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+5. [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d)
 
 <hr>
