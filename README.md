@@ -30,3 +30,14 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 5. [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d)
 
 <hr>
+
+**⇃ 7 kyu**
+
+1. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+2. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+3. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+4. [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+5. [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
+6. [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+
+<hr>
