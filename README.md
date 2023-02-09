@@ -42,7 +42,7 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 
 <hr>
 
-**⇃ 7 kyu**
+**⇃ 6 kyu**
 
 1. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 2. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
