@@ -48,5 +48,8 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 2. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 3. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 4. [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
+5. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+6. [Replace With Alphabet Position](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+7. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
 
 <hr>
