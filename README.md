@@ -46,5 +46,7 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 
 1. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 2. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+3. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+4. [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 
 <hr>
