@@ -51,5 +51,7 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 5. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
 6. [Replace With Alphabet Position](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
 7. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
+8. [Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371)
+9. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 
 <hr>
