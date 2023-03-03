@@ -55,3 +55,9 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 9. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 
 <hr>
+
+**⇃ 5 kyu**
+
+1. [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+
+<hr>
