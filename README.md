@@ -61,3 +61,9 @@ Full link example: ```www.codewars.com/kata/568dc014440f03b13900001d```.
 1. [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 
 <hr>
+
+**⇃ 4 kyu**
+
+1. [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
+
+<hr>
